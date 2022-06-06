@@ -1,0 +1,19 @@
+
+* {
+  font-family: 'Montserrat', sans-serif;
+  background: #e3f0ff;
+}
+
+
+.nav-btn {
+  background:#5654b3 ;
+  color: #fff;
+  border: none;
+  padding: 0 1.5rem;
+  border-radius: 0.3rem;
+}
+
+.navbar-nav{
+  gap: 2.5rem;
+}
+
